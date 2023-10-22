@@ -1,0 +1,4 @@
+.reminders-container {
+  background: rgb(224,2,252);
+  background: linear-gradient(90deg, rgba(224,2,252,1) 35%, rgba(127,0,255,1) 89%);
+}
